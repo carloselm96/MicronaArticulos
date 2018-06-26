@@ -1,1 +1,2 @@
-# MicronaArticulos
+# MicronaWeb
+Sistema de Información de Microna
